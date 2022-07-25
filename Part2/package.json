@@ -36,6 +36,7 @@
         "isolatedModules": false
       }
     },
+    "testTimeout" : 10000,
     "moduleFileExtensions": [
       "js",
       "json",
